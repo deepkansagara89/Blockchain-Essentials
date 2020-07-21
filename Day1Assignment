@@ -1,0 +1,17 @@
+Day 1 Assignment:
+1. What is your understanding of Blockchain?
+Ans: It is a way to have decentralized verifiable data shared with all people part of the discussion in a private/public in a digital form as a ledger(i.e BLOCKs in the chain) by making use of Decentralised database & Cryptography as a core concept.
+
+2. What is the core problem, Blockchain trying to solve?
+Ans: Blockchain solves removal of intermediate people.
+
+3. What are the features of Blockchain?
+Ans: Following are the features of Blockchain -
+Transparent, Decentralised database, Immutable, Crypted data, Tamper proof, Verifiable, Security & Authenticity.
+
+4. What does a Block contain?
+Ans: Following are the section in a Block -
+Block number, Transaction Data, Hashed Key, and Mining Key.
+
+5. How is the verifiability of Blockchain is been achieved?
+Ans: Since data is shared with everyone and if any difference with other it identified.
